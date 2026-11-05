@@ -1,47 +1,5 @@
 [
     {
-        "id": 80137,
-        "name": "Qiuhua",
-        "displayName": "秋桦（衣装仁心仁术）",
-        "weaponType": "",
-        "element": "GirlsFrontline",
-        "gender": "Female",
-        "region": "",
-        "rarity": 5,
-        "directory": "chars/Qiuhua",
-        "image": "Covers/Qiuhua.png",
-        "pmx": "v01/GirlsFrontline QiuhuaSSR0101.pmx",
-        "base": "https://carlutic.github.io/girl_frontline4/"
-    },
-    {
-        "id": 80138,
-        "name": "Qiuhua",
-        "displayName": "秋桦（衣装（秋宴龙厨）",
-        "weaponType": "",
-        "element": "GirlsFrontline",
-        "gender": "Female",
-        "region": "",
-        "rarity": 5,
-        "directory": "chars/Qiuhua",
-        "image": "Covers/Qiuhua.png",
-        "pmx": "v02/GirlsFrontline QiuhuaShopingMallReward.pmx",
-        "base": "https://carlutic.github.io/girl_frontline4/"
-    },
-    {
-        "id": 80139,
-        "name": "Qiuhua",
-        "displayName": "秋桦（休息室）",
-        "weaponType": "",
-        "element": "GirlsFrontline",
-        "gender": "Female",
-        "region": "",
-        "rarity": 5,
-        "directory": "chars/Qiuhua",
-        "image": "Covers/Qiuhua.png",
-        "pmx": "v03/GirlsFrontline QiuHuaRestroom.pmx",
-        "base": "https://carlutic.github.io/girl_frontline4/"
-    },
-    {
         "id": 80140,
         "name": "Peri",
         "displayName": "佩莉（休息室）",
