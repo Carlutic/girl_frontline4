@@ -1,16 +1,1 @@
-[
- {
-  "id": 80216,
-  "name": "Tololo",
-  "displayName": "托洛洛（官方加工版）",
-  "weaponType": "",
-  "element": "GirlsFrontline",
-  "gender": "Female",
-  "region": "",
-  "rarity": 5,
-  "directory": "chars/Tololo",
-  "image": "Covers/Tololo.png",
-  "pmx": "v04/GirlsFrontline TololoDefault.pmx",
-  "base": "https://carlutic.github.io/girl_frontline4/"
- }
-]
+[]
