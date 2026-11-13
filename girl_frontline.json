@@ -12,5 +12,19 @@
   "image": "Covers/Tololo.png",
   "pmx": "v03/TololoSSR - 配布版.pmx",
   "base": "https://carlutic.github.io/girl_frontline4/"
+ },
+ {
+  "id": 80040,
+  "name": "Macqiato",
+  "displayName": "玛绮朵",
+  "weaponType": "",
+  "element": "GirlsFrontline",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/Macqiato",
+  "image": "Covers/Macqiato.png",
+  "pmx": "GirlsFrontline MacqiatoDefault.pmx",
+  "base": "https://carlutic.github.io/girl_frontline4/"
  }
 ]
