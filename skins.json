@@ -236,19 +236,5 @@
   "image": "Covers/Basti.png",
   "pmx": "v01/GirlsFrontline BastiRestroom.pmx",
   "base": "https://carlutic.github.io/girl_frontline4/"
- },
- {
-  "id": 80215,
-  "name": "Tololo",
-  "displayName": "托洛洛（官方配布版）",
-  "weaponType": "",
-  "element": "GirlsFrontline",
-  "gender": "Female",
-  "region": "",
-  "rarity": 5,
-  "directory": "chars/Tololo",
-  "image": "Covers/Tololo.png",
-  "pmx": "v03/TololoSSR - 配布版.pmx",
-  "base": "https://carlutic.github.io/girl_frontline4/"
  }
 ]
