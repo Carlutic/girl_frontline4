@@ -10,5 +10,13 @@
   "c_TololoSSR01_slg_cloth2_da.png": {
     "normal": "v03/textures/c_TololoSSR01_slg_cloth2_n_std.png",
     "rmo": "v03/textures/c_TololoSSR01_slg_cloth2_orm.png"
+  },
+  "c_tololossr01_slg_cloth1.png": {
+    "normal": "v03/textures/c_TololoSSR01_slg_cloth1_n_std.png",
+    "rmo": "v03/textures/c_TololoSSR01_slg_cloth1_orm.png"
+  },
+  "c_tololossr01_slg_cloth2.png": {
+    "normal": "v03/textures/c_TololoSSR01_slg_cloth2_n_std.png",
+    "rmo": "v03/textures/c_TololoSSR01_slg_cloth2_orm.png"
   }
 }
