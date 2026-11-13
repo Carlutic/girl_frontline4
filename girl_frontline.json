@@ -26,5 +26,19 @@
   "image": "Covers/Macqiato.png",
   "pmx": "GirlsFrontline MacqiatoDefault v3.pmx",
   "base": "https://carlutic.github.io/girl_frontline4/"
+ },
+ {
+  "id": 80041,
+  "name": "Cheeta",
+  "displayName": "奇塔",
+  "weaponType": "",
+  "element": "GirlsFrontline",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/CheetaSR",
+  "image": "Covers/Cheeta.png",
+  "pmx": "奇塔.pmx",
+  "base": "https://carlutic.github.io/girl_frontline4/"
  }
 ]

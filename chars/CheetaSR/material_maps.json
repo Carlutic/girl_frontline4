@@ -1,0 +1,10 @@
+{
+  "c_CheetaSR01_slg_cloth01_d.png": {
+    "normal": "textures/c_CheetaSR01_slg_cloth01_n_std.png",
+    "rmo": "textures/c_CheetaSR01_slg_cloth01_orm.png"
+  },
+  "c_CheetaSR01_slg_cloth02_d.png": {
+    "normal": "textures/c_CheetaSR01_slg_cloth02_n_std.png",
+    "rmo": "textures/c_CheetaSR01_slg_cloth02_orm.png"
+  }
+}
