@@ -17,5 +17,6 @@
       "normal": "textures/c_Tololo_stocking_n.png",
       "normalLevel": 1.25
     }
-  }
+  },
+  "stockingMode": "alpha"
 }
