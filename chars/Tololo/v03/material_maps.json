@@ -10,5 +10,12 @@
   "c_TololoSSR01_slg_cloth2_da.png": {
     "normal": "textures/c_TololoSSR01_slg_cloth2_n_std.png",
     "rmo": "textures/c_TololoSSR01_slg_cloth2_orm.png"
+  },
+  "materialOverrides": {
+    "丝袜": {
+      "diffuse": "textures/c_Tololo_stocking_d.png",
+      "normal": "textures/c_Tololo_stocking_n.png",
+      "normalLevel": 1.25
+    }
   }
 }
