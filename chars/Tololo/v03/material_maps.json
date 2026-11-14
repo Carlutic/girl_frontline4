@@ -17,5 +17,6 @@
     }
   },
   "stockingMode": "alpha",
-  "stockingSkinTexture": "textures/c_Tololo_skinUnder_d.png"
+  "stockingSkinTexture": "textures/c_Tololo_skinUnder_d.png",
+  "defaultPreset": "lobby"
 }
