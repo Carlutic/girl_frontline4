@@ -13,9 +13,7 @@
   },
   "materialOverrides": {
     "丝袜": {
-      "diffuse": "textures/c_Tololo_stocking_d.png",
-      "normal": "textures/c_Tololo_stocking_n.png",
-      "normalLevel": 1.25
+      "diffuse": "textures/c_Tololo_stocking_d.png"
     }
   },
   "stockingMode": "alpha"
